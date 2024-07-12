@@ -1,0 +1,1 @@
+ C:\\Flutter\ Sio\\API\ Tokopedia\\Tokopedia---UTS-main\\.dart_tool\\flutter_build\\a1a5be93ceab7e381fcef721f2f40ed6\\native_assets.yaml: 
